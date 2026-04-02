@@ -1,0 +1,9 @@
+TaskID,Type,ReqCPU,ReqGPU,ReqRAM,Priority
+T-201,DataCleaning,64,0,128,3
+T-202,LLM_Training,64,160,256,1
+T-203,SmartHome_Log,2,0,4,5
+T-204,VideoAnalysis,16,24,64,2
+T-205,Impossible_Godzilla,256,320,1024,1
+T-206,PathPlanning,8,0,16,2
+T-207,AgentSimulation,32,80,128,4
+T-208,TrafficMonitor,8,8,16,3

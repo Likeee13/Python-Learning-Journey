@@ -1,0 +1,7 @@
+[
+  {"node_id": "Super-GPU-01", "cpu_cores": 64, "gpu_vram": 160, "ram": 256},
+  {"node_id": "Compute-CPU-02", "cpu_cores": 128, "gpu_vram": 0, "ram": 512},
+  {"node_id": "Edge-Standard-03", "cpu_cores": 32, "gpu_vram": 80, "ram": 128},
+  {"node_id": "Edge-Lite-04", "cpu_cores": 16, "gpu_vram": 24, "ram": 64},
+  {"node_id": "IoT-Pi-05", "cpu_cores": 4, "gpu_vram": 0, "ram": 8}
+]
